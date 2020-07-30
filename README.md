@@ -1,5 +1,8 @@
 ## Germany Travel Insider
 
+element {
+font size : 20;
+}
 This website has been established for those who will be travelling to places in Germnay in the future. In this website you will find all necessary information about almost every city in Germany. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
