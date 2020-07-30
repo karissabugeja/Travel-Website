@@ -1,6 +1,6 @@
-## Travel Insider
+## Germany Travel Insider
 
-You can use the [editor on GitHub](https://github.com/karissabugeja/Travel-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website has been established for those who will be travelling to places in Germnay in the future. In this website you will find all necessary information about almost every city in Germany. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
